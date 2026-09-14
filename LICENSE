@@ -1,0 +1,50 @@
+This repository contains three kinds of material, under different terms.
+
+
+1. CODE  (apply.py, verify.py, installer.py, build.bat)
+   MIT License
+
+   Copyright (c) 2025 Oleksandr Novikov
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+
+2. TRANSLATION AND ARTWORK  (data/translation/, art/)
+   CC0 1.0 Universal — dedicated to the public domain.
+
+   Use it, change it, ship it, build another language on top of it. No
+   attribution required, though it is always welcome.
+
+   https://creativecommons.org/publicdomain/zero/1.0/
+
+
+3. FONT  (data/font/MPLUSRounded1c-Medium.ttf and the atlas baked from it)
+   SIL Open Font License 1.1 — see data/font/OFL.txt.
+
+   Copyright 2021 The M PLUS Project Authors.
+
+
+NOT INCLUDED
+
+This repository contains no files from the game. The installer modifies a copy
+you already own; it ships nothing of Silver Lining Studio's work.
+
+Behind the Frame: The Finest Scenery is © Silver Lining Studio. This project is
+an unofficial community translation and is not affiliated with or endorsed by
+the studio or its publisher.

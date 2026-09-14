@@ -1,0 +1,1052 @@
+Puzzle/Lock/SunFlowerLock/Before,"Дерев’яна скринька з намальованими соняшниками.
+Коли вона тут з’явилася..."
+Puzzle/Preview/CoffeeStorePainting/Ch123,"Сонце, місце в кутку і добра кава.
+Як би я хотіла провести тут пообіддя!"
+Puzzle/Preview/LavenderPainting/Ch123,"Як же було б гарно прогулятися
+цим лавандовим полем!"
+Puzzle/Preview/RyePainting/Ch123,"Посеред цього золотого пшеничного поля
+стоїть мольберт. Як хочеться там помалювати!"
+Puzzle/Repair/GroceryStorePaintingA/Before,"Це бакалійна крамниця. Червона парасолька така промовиста,
+але картині наче чогось бракує..."
+Puzzle/Repair/HillPainting/Before,"Спокійний луг і гори вдалині.
+Наче чогось бракує..."
+Puzzle/Repair/StreetPainting/Before,"Ці двоє на картині такі близькі.
+Цікаво, ким вони одне одному доводяться..."
+Puzzle/Repair/UmbrellaOilPainting/Before,"Перехожі йдуть присмерковим містом дощового
+дня. Тільки картина якась простувата..."
+Puzzle/Painting/Neighbor_Yellow/Correct/1,Ось так!
+Puzzle/Painting/Neighbor_Yellow/Correct/2,"Після стількох спроб
+нарешті все на своєму місці!"
+Puzzle/Painting/Neighbor_Yellow/Correct/3,На крок ближче до виставки!
+Puzzle/Painting/Neighbor_Yellow/Start,Де в чернетці я малювала жовтим?
+Puzzle/Painting/MainPainting/Duplicated/1,Цю частину я вже зафарбувала...
+Puzzle/Painting/MainPainting/Duplicated/2,Ця частина вже готова...
+Puzzle/Painting/MainPainting/Duplicated/3,Треба бути уважнішою...
+Puzzle/Painting/MainPainting/IncorrectBoth/1,"Здається, потрібної фарби в мене немає...
+Спершу попрацюю над рештою картини."
+Puzzle/Painting/MainPainting/IncorrectBoth/2,"Кольору для цього місця в мене немає...
+Спершу попрацюю над рештою картини."
+Puzzle/Painting/MainPainting/IncorrectBoth/3,"Потрібного кольору немає... Спершу
+попрацюю над рештою картини."
+Puzzle/Painting/MainPainting/IncorrectColor/1,Цей колір якийсь не такий...
+Puzzle/Painting/MainPainting/IncorrectColor/2,Виглядає трохи недоречно...
+Puzzle/Painting/MainPainting/IncorrectColor/3,Колір ніби не той...
+Hint/NPC/Room/Brush,Спершу треба взяти пензель.
+Item/Brush_Jack_After/Desc,"Він подарував мені цей пензель, на ньому вигравіруване його ім’я.
+Пензель старомодний, але найдорожчий для мене."
+Item/Brush_Jack_After/Title,Пензель Джека
+Puzzle/Routine/Day_Coffee_Ch1/End,"О, запах кави! Мій улюблений!"
+Puzzle/Routine/Day_Coffee_Ch1/Start,"Зварю чашку кави, щоб
+легше малювалося."
+Puzzle/Routine/Day_Computer_Ch1/FinalStep,"На сьогодні досить.
+Продовжу завтра."
+Puzzle/Routine/Day_Computer_Ch1/Start,"Резюме готове лише наполовину.
+Час довести справу до кінця!"
+Puzzle/Routine/Day_Kitchen_Ch1/Eat,Пахне чудово! Скоріше б скуштувати!
+Puzzle/Routine/Day_Kitchen_Ch1/End,Наїлася! Яка насолода!
+Puzzle/Routine/Day_Kitchen_Ch1/Start,"Час приготувати сніданок,
+щоб мати сили на цілий день!"
+Puzzle/Routine/Day_RadioA_Ch1/End,Музика є! То що далі?
+Puzzle/Routine/Day_RadioA_Ch1/Start,"Увімкнути музику, щоб підняти настрій?"
+Hint/Puzzle/Routine/Day_RadioA_Ch1,"Тут так тихо.
+Увімкну музику!"
+Item/NeighborPainting/Desc,"Чернетка моєї роботи для галереї. Якщо її
+приймуть, я стану на крок ближче до мрії!"
+Item/Pigment_Yellow/Desc,Обожнюю цей сонячний і живий колір!
+Item/Pigment_Yellow/Title,Жовта фарба
+NPC/Room/Bed/Ch123,"Нема коли байдикувати. Треба швидше
+доробити роботу для галереї."
+NPC/Room/Bedroom/Ch123,Моя спальня і всяке потрібне щодня.
+NPC/Room/Bucket/Ch123,"Порожні банки з-під фарби, вкриті товстим шаром засохлої фарби."
+NPC/Room/CabinetLower/Ch123,"Сувеніри, зібрані в подорожах."
+NPC/Room/CabinetUpper/Ch123,"Тут усі мої улюблені романи. Візьму
+один і почитаю, коли закінчу роботу."
+NPC/Room/Calendar/Ch1,"Термін подачі вже близько.
+Треба працювати старанніше!"
+NPC/Room/Diploma/Ch123,"Мій диплом коледжу.
+Шкода, що я не обрала мистецтво."
+NPC/Room/Exhibition/Ch123,Сподіваюся колись виставити свої картини в Нью-Йорку!
+NPC/Room/GraphicPoster01/Ch123,"Мої ранні роботи з графічного дизайну,
+коли я була дизайнеркою-фрилансеркою."
+NPC/Room/GraphicPoster02/Ch123,"Мої дизайнерські роботи, що здобули нагороди."
+NPC/Room/Illustration/Ch123,"Мої картини для виставки.
+Відчуваю, що треба працювати більше..."
+NPC/Room/Light/Ch123,"У кімнаті й так досить світло.
+Вмикати лампу нема потреби."
+NPC/Room/Magazine/Ch123,"Тут є інформація про виставку
+і про нью-йоркську галерею."
+NPC/Room/Memo/Ch123,"Записую в блокнот думки й нотатки з подорожей.
+Кожна дрібна ідея для мене цінна."
+NPC/Room/Novel/Ch123,"Роман, який я перечитую щовечора перед сном.
+Потім знову візьмуся за нього."
+NPC/Room/OutsideDoor/Ch123,"Не вийду з дому, доки
+не закінчу роботу для виставки."
+NPC/Room/PaintBox/Ch13,Дещо з мого малярського приладдя.
+NPC/Room/PictureDad/Ch123,Після розлучення тато виглядає молодшим.
+NPC/Room/PictureFamily/Ch123,"Фото з мамою. Без її підтримки
+я б не наважилася йти за мрією."
+NPC/Room/PictureMom/Ch123,"Після розлучення мама побудувала кар’єру.
+Вона сильна й незалежна жінка."
+NPC/Room/Sketch/Ch123,"Альбом, яким я часто користуюся.
+Тут багато моїх навчальних начерків."
+NPC/Room/Sketches01/Ch123,"Усі начерки, зроблені з самого дитинства.
+Вони показують мій життєвий шлях."
+NPC/Room/Sketches02/Ch123,"Кілька навчальних чернеток. Кожен маленький крок
+наближає мене до мрії."
+NPC/Room/Sofa/Ch123,"Диван, на якому я зазвичай читаю,
+і всяка всячина навколо."
+NPC/Room/ToDoList/Ch123,"Справи: 1. Музика 2. Сніданок 3. Резюме
+4. Кава, а тоді малювати далі!"
+NPC/Room/Window/Ch1/start,"Який гарний день. Ідеальний ранок,
+щоб дати волю натхненню!"
+Puzzle/Painting/Neighbor_Yellow/After,Зроблю перерву й займуся чимось іншим.
+Hint/Puzzle/Routine/Day_Kitchen_Ch1,"У животі бурчить.
+Час приготувати сніданок!"
+Hint/Puzzle/Routine/Day_Computer_Ch1,"Дедлайн наближається! Треба
+мерщій дописати резюме й портфоліо!"
+Hint/Puzzle/Routine/Day_Coffee_Ch1,Без ранкової кави я завжди мов сонна муха.
+Puzzle/Scene/JackScene01/Click/Cat,"Кішка дрімає, зручно вмостившись."
+Puzzle/Scene/JackScene01/Click/HillPainting,"Яка розкішна картина!
+Здається, я її десь бачила..."
+Puzzle/Scene/JackScene01/Click/Jack,"Здається, цей старий, який постійно
+малює, зовсім мене не помічає."
+Puzzle/Scene/JackScene01/Duplicated/Cat,"Це я вже замалювала.
+Спробую деінде."
+Puzzle/Scene/JackScene01/Duplicated/HillPainting,"Це я вже замалювала.
+Спробую деінде."
+Puzzle/Scene/JackScene01/Duplicated/Jack,"Це я вже замалювала.
+Спробую деінде."
+Puzzle/Scene/JackScene01/Start/1,"Старий щоразу мене не помічає...
+Але малює він справді чудово."
+Puzzle/Scene/JackScene01/Start/2,Зроблю кілька начерків.
+Puzzle/Repair/Common/Correct/1,Тепер вона цілісніша!
+Puzzle/Repair/Common/Correct/2,"Так, саме те місце!"
+Puzzle/Repair/Common/Correct/3,Гарно виходить!
+Puzzle/Repair/Common/Incorrect/1,"Щось не те... Може,
+десь є підказка?"
+Puzzle/Repair/Common/Incorrect/2,"Ні, не тут... Мабуть,
+треба ще подумати..."
+Puzzle/Repair/Common/Incorrect/3,"Не те місце...
+Виглядає якось дивно..."
+Puzzle/Repair/Common/MinorIncorrect/1,"Загалом наче правильно, але
+мене не полишає дивне відчуття..."
+Puzzle/Repair/Common/MinorIncorrect/2,"Майже вийшло!
+Трохи підправлю..."
+Puzzle/Repair/Common/MinorIncorrect/3,Зовсім близько!
+Puzzle/Repair/Common/PartialIncorrect/1,"Місце наче правильне. Але
+доведеться дещо підправити..."
+Puzzle/Repair/Common/PartialIncorrect/2,"Чомусь усе одно не зовсім те...
+Треба трохи підправити!"
+Puzzle/Repair/Common/PartialIncorrect/3,Ще потребує доопрацювання.
+Puzzle/Repair/Common/Return,"Натхнення вичерпується.
+Повернуся до цього пізніше."
+Puzzle/Repair/HillPainting/After,"Звідки в мене ця картина?
+Ніяк не пригадаю..."
+Puzzle/Repair/HillPainting/FinalStep,Щось за картиною щойно відчинилося...
+Puzzle/Repair/HillPainting/Start,"Знайшла! Ось та схожа
+картина! Але... чим вони різняться?"
+Hint/Puzzle/Scene/JackScene01,"Час до роботи! Приємно
+пити каву, поки малюєш."
+Cinema/Greet,"Доброго ранку!
+Як справи?"
+Puzzle/Notebook/SunFlowerJigsaw/End,Цей візерунок я вже десь бачила в кімнаті...
+Puzzle/Notebook/SunFlowerJigsaw/Start,"Схоже, фрагменти можна скласти докупи?"
+Item/JackScene01_Cat/Desc,"У нього є кішка! Яка ж вона гарна!
+Може, і мені завести?"
+Item/JackScene01_HillPainting/Desc,"Ця картина така схожа на ту, що в моїй
+кімнаті... Тільки вона виглядає завершенішою."
+Item/JackScene01_Jack/Desc,"Здається, цей старий, який постійно
+малює, зовсім мене не помічає."
+NPC/Room/Coffee/Ch1/After,"Готово. Вип’ю потім, коли малюватиму."
+NPC/Room/Computer/Ch1/After,"Резюме готове наполовину.
+Час зайнятися іншими справами."
+NPC/Room/Kitchen/Ch1/After,"Я поснідала. Тепер варто
+зайнятися чимось іншим."
+NPC/Room/Radio/Ch1/After,Ця пісня додає мені сил зранку!
+Puzzle/Lock/SunFlowerLock/FinalStep,"Відкрилася! Коли ж
+я її сюди поклала?"
+Puzzle/Lock/SunFlowerLock/Start,"Візерунки такі самі, як на малюнку!
+Чи є між ними зв’язок?"
+Item/JackLetter_1/Desc,"За картиною записка з підписом «J»...
+Хто такий J? Не пригадую..."
+Item/JackLetter_1/Title,Записка із соняшником від J
+Item/SunFlower_Chip/Desc,"Форми на фрагментах здаються знайомими...
+Складу їх разом і подивлюся!"
+NPC/Room/Coffee/Ch123/AfterDrink,"Машина, якою я зазвичай варю каву."
+NPC/Room/Window/Ch1/afterJackScene01,"Старий завжди так зосереджений
+на своїй картині. Я йому не поступлюся!"
+Item/SunFlowerPainting/Desc,"Якщо скласти фрагменти разом, видно соняшники.
+Я їх десь бачила?"
+Item/SunFlowerPainting/Title,Малюнок соняшників
+Puzzle/Painting/Neighbor_Green/After,"Мене щось непокоїть...
+Повернуся до цього пізніше."
+Puzzle/Painting/Neighbor_Green/Correct/1,Ось так! Не зупиняйся!
+Puzzle/Painting/Neighbor_Green/Correct/2,Обожнюю життєву силу зеленого!
+Puzzle/Painting/Neighbor_Green/Correct/3,На крок ближче до виставки!
+Puzzle/Painting/Neighbor_Green/Duplicated/1,"Цю частину я вже зробила...
+Зосередься й не зіпсуй!"
+Puzzle/Painting/Neighbor_Green/Duplicated/2,Ця частина готова. Обережніше!
+Puzzle/Painting/Neighbor_Green/Duplicated/3,"Мало не зафарбувала
+готову частину. Впораюся!"
+Puzzle/Painting/Neighbor_Green/IncorrectColor/1,"Цей колір якийсь
+не такий! Треба зосередитися..."
+Puzzle/Painting/Neighbor_Green/IncorrectColor/2,"Колір наче недоречний...
+Спробую ще раз!"
+Puzzle/Painting/Neighbor_Green/IncorrectColor/3,"Схоже, колір не той.
+Варто ще раз перевірити."
+Puzzle/Painting/Neighbor_Green/Start,"Час викластися повністю! Хочу
+колись малювати не гірше за нього."
+Hint/Item/Pigment_Green,Знайшла фарбу! Час повертатися до роботи.
+Item/Pigment_Green/Desc,"Улюблений колір природи. Він
+символізує відродження всього живого."
+Item/Pigment_Green/Title,Зелена фарба
+NPC/Room/SunFlowerLock/Ch1/After,"Знайшла зелену фарбу,
+але навіщо я лишила її тут?"
+Hint/NPC/Room/Canvas,"Старий завжди так зосереджений
+на своїй картині. Я йому не поступлюся!"
+NPC/Room/Window/Ch1/afterPigment,"Час викластися повністю! Хочу
+колись малювати не гірше за нього."
+Hint/SunflowerMemory/VoiceOver/1,"Мружачись від пообіднього сонця, він
+раптом помічає ту дівчину через дорогу."
+Hint/SunflowerMemory/VoiceOver/2,"У раптовому пориві натхнення він
+з новими силами береться за пензель."
+NPC/SunflowerMemory/Cat,"Руда з білим кішка потягується.
+Час неначе завмер у цю мить."
+NPC/SunflowerMemory/HillPainting,"Його мазки вкривають відкрите поле
+ледь помітним жовтогарячим світлом."
+NPC/SunflowerMemory/SunflowerCopy/Empty,"Чистий аркуш паперу, якому ще належить
+набути барв почуттів і спогадів."
+NPC/SunflowerMemory/SunflowerCopy/Exit,Яка історія стоїть за кожною картиною?
+NPC/SunflowerMemory/SunflowerPainting,"На полотні дівчини розквітають соняшники,
+тягнучись за живлющим сонцем."
+NPC/SunflowerMemory/WallPainting,"На стіні висить багато краєвидів
+і одна картина, яку, здається, чимось накрито."
+Puzzle/Lock/MissingCatLock/Before,Чи має візерунок на скриньці якесь значення?
+Hint/Puzzle/Routine/Day_RadioA_Ch2,"Схоже, хтось уліз у фарбу...
+О ні! У кімнаті справжній безлад!"
+Puzzle/Routine/Day_Coffee_Ch2/End,Кава готова. Вип’ю пізніше.
+Puzzle/Routine/Day_Coffee_Ch2/MessyEnd,"Фух... усе на своїх місцях.
+Зварю собі чашку кави."
+Puzzle/Routine/Day_Coffee_Ch2/MessyLock,"Є ще місця, які треба прибрати."
+Puzzle/Routine/Day_Coffee_Ch2/Start,"Оце так безлад...
+Доведеться прибирати."
+Puzzle/Routine/Day_Computer_Ch2/FinalStep,"Здається, минулого разу я спинилася тут.
+Решту допишу завтра!"
+Puzzle/Routine/Day_Computer_Ch2/MessyEnd,"Вчорашня чернетка зникла й не
+відновлюється. Доведеться писати заново."
+Puzzle/Routine/Day_Computer_Ch2/MessyLock,"Є ще місця, які треба прибрати."
+Puzzle/Routine/Day_Computer_Ch2/Start,"Тут теж безлад. Добре, що склянка
+була порожня, інакше ноутбуку кінець."
+Puzzle/Routine/Day_Kitchen_Ch2/End,"Стривай... Що це за тінь
+щойно промайнула?"
+Puzzle/Routine/Day_Kitchen_Ch2/MessyEnd,Хм... Я трохи зголодніла.
+Puzzle/Routine/Day_Kitchen_Ch2/MessyLock,"Є ще місця, які треба прибрати."
+Puzzle/Routine/Day_Kitchen_Ch2/Start,"Тут теж безлад. Спершу приберу,
+а тоді шукатиму винуватця!"
+Puzzle/Routine/Day_RadioA_Ch2/End,Фух! Він досі працює!
+Puzzle/Routine/Day_RadioA_Ch2/MessyEnd,"Увімкну музику, щоб перевірити, чи він працює."
+Puzzle/Routine/Day_RadioA_Ch2/Start,"Касетний програвач перекинуто.
+Поставлю його на місце."
+Item/MissingCat_Chip/Desc/1,Звідки тут цей клаптик паперу?
+NPC/Room/Calendar/Ch2,"Я забула відірвати аркуш.
+Досі 23 січня."
+NPC/Room/Coffee/Ch2/After,"Усе повернула на місце.
+Добре, що кавник не розбився..."
+NPC/Room/Coffee/Ch2/Before,"У кімнаті жовті сліди лап.
+Хтось, певно, вліз у фарбу."
+NPC/Room/Computer/Ch2/After,"Чернетку видалено. Добре, що
+я пам’ятаю, що набирала вчора."
+NPC/Room/Computer/Ch2/Before,"У кімнаті сліди лап.
+Невже це кішка...?"
+NPC/Room/Kitchen/Ch2/After,"Витратила час на прибирання.
+Мабуть, згодом зроблю сендвіч."
+NPC/Room/Kitchen/Ch2/Before,У кімнаті безлад. Спершу приберу!
+NPC/Room/PaintBox/Ch2,Ось звідки починаються жовті сліди.
+NPC/Room/Radio/Ch2/After,Мені подобається ця весела пісня!
+NPC/Room/SunFlowerLock/Ch23,"Знайшла зелену фарбу в цій
+скриньці. Невже я сама її поклала?"
+NPC/Room/Window/Ch2/start,"Спершу знайду того, хто влаштував
+безлад, а тоді вже малюватиму!"
+Puzzle/Scene/JackScene02/Click/JackAndCat,"То це кішка влаштувала безлад
+у моїй кімнаті! Добре, що ціла."
+Puzzle/Scene/JackScene02/Click/Painting,Старий намалював ще одну нову картину!
+Puzzle/Scene/JackScene02/Start,"Кішка стрибнула без попередження.
+У мене аж серце тьохнуло..."
+Item/MissingCat_Chip/Desc/2,А ось іще один!
+Item/MissingCat_Chip/Desc/3,"Третій, але цього все одно замало."
+Puzzle/Notebook/MissingCatJigsaw/End,"Здається, цей малюнок я теж
+десь бачила у своїй кімнаті."
+Puzzle/Notebook/MissingCatJigsaw/Start,Спробую скласти фрагменти разом.
+Puzzle/Notebook/MissingCatJigsaw/Undone,"Не розберу, що це. Схоже,
+бракує ще одного чи кількох фрагментів."
+Item/MissingCat_Chip/Desc/4,"Усі фрагменти знайшлися там, де
+проходила кішка. Невже це вона їх принесла?"
+Puzzle/Lock/MissingCatLock/FinalStep,Відкрилася!
+Puzzle/Lock/MissingCatLock/Start,"Кольори й композиція схожі
+на щойно складений малюнок."
+Item/JackScene02_JackAndCat/Desc,"Кішка, яка влаштувала безлад у моїй кімнаті,
+тепер сидить на руках у старого."
+Puzzle/Painting/Neighbor_Red/After,"Спершу треба дещо
+перевірити. Малюватиму потім."
+Puzzle/Painting/Neighbor_Red/Correct/1,Саме те місце!
+Puzzle/Painting/Neighbor_Red/Correct/2,Червоний додає роботі життя!
+Puzzle/Painting/Neighbor_Red/Correct/3,Більше половини картини готово. Уже близько!
+Puzzle/Painting/Neighbor_Red/Start,Додам новий колір і створю шедевр!
+Item/MissingCat_Chip/Desc/5,Спробую скласти фрагменти разом.
+Item/MissingCatPainting/Desc,"Здається, я вже бачила цей малюнок
+десь у своїй кімнаті."
+Item/MissingCatPainting/Title,Малюнок кішки на вулиці
+NPC/Room/Window/Ch2/afterJackScene02,"Вони й справді дуже близькі.
+Хотіла б я знати його ближче."
+Hint/Item/Pigment_Red,"Тепер, коли є новий колір,
+час повертатися до малювання!"
+Item/JackLetter_2/Desc,"Ще одна записка від J,
+але цього разу з малюнком кішки."
+Item/JackLetter_2/Title,Записка з кішкою від J
+Item/Pigment_Red/Desc,"Її яскраві, палахкі відтінки
+передають наші власні палкі почуття."
+Item/Pigment_Red/Title,Червона фарба
+NPC/Room/MissingCatLock/Ch2/After,"Цього разу знайшла червону фарбу. Невже це я
+її сюди поклала? Щось не пригадую..."
+NPC/Room/Window/Ch2/afterPigment,"Вони й справді дуже близькі.
+Хотіла б я знати його ближче."
+Hint/MissingCatMemory/VoiceOver/1,"Червоні стіни обабіч провулка
+рясніють оголошеннями про зниклу кішку."
+Hint/MissingCatMemory/VoiceOver/2,Він саме збирається повісити на стіну ще одне оголошення.
+NPC/MissingCatMemory/Amber,"Дівчина всміхається, дивлячись, як знайдена нею
+загублена кішка біжить назад до господаря."
+NPC/MissingCatMemory/Apartment,"Збоку стояли два будинки: один із
+жовтим дахом, другий із червоним."
+NPC/MissingCatMemory/Cat,"Кішка качається по землі, просячись, щоб її погладили.
+Вона не помічає стурбованого обличчя господаря."
+NPC/MissingCatMemory/Flyer,Стіни обклеєні оголошеннями про зниклу кішку.
+NPC/MissingCatMemory/Jack,"Він зупиняється й дивиться на руду
+пляму, що біжить до нього."
+NPC/MissingCatMemory/Painting/Empty,"Чистий аркуш паперу, якому ще належить
+набути барв почуттів і спогадів."
+NPC/MissingCatMemory/Painting/Exit,"Ось де вони зустрілися...
+Цікаво, що було далі..."
+Puzzle/Routine/Day_Coffee_Ch3/End,"Обожнюю запах кави й дощу!
+Він відволікає від тривог."
+Puzzle/Routine/Day_Coffee_Ch3/Start,"Спершу зварю собі чашку кави.
+Зараз не хочеться про це думати."
+Puzzle/Routine/Day_Computer_Ch3/FinalStep,"Файли кількаденної давнини теж
+зникли без причини. Чому так?"
+Puzzle/Routine/Day_Computer_Ch3/Start,"Увімкнула ноутбук, як завжди,
+а файли знову зникли..."
+Puzzle/Routine/Day_Kitchen_Ch3/End,"Сніданок — мій ранковий ритуал, що нагадує:
+починається новий день."
+Puzzle/Routine/Day_Kitchen_Ch3/Start,А тепер час підкріпитися.
+Puzzle/Routine/Day_RadioA_Ch3/End,"Люблю, як ритм дощових крапель
+підігрує музиці."
+Puzzle/Routine/Day_RadioA_Ch3/Start,"Треба музики, щоб додати барв
+цій імлистій дощовій погоді."
+Puzzle/Scene/JackScene03/Click/Jack,Невже старий... захворів?
+Puzzle/Scene/JackScene03/Click/Umbrella,"Та картина, на яку він дивиться...
+Здається, я її десь бачила..."
+Puzzle/Scene/JackScene03/Duplicated/Jack,"Цю ділянку я вже замалювала.
+Спробую іншу."
+Puzzle/Scene/JackScene03/Duplicated/Umbrella,"Цю ділянку я вже замалювала.
+Спробую іншу."
+Puzzle/Scene/JackScene03/Start,"Це перший дощ, відколи
+я сюди переїхала..."
+Puzzle/Repair/UmbrellaOilPainting/After,"Червона і жовта парасольки
+виділяються на тлі присмеркового дощового міста."
+Puzzle/Repair/UmbrellaOilPainting/FinalStep,"Вони йдуть у різні боки під парасольками
+різних кольорів. Чи помічають одне одного?"
+Puzzle/Repair/UmbrellaOilPainting/Start,"Це та картина, на яку дивився старий!
+Яка ж її частина не завершена?"
+Puzzle/Repair/GroceryStorePaintingA/After,"Вивіску я додала, але чогось
+усе одно бракує..."
+Puzzle/Repair/GroceryStorePaintingA/FinalStep,"Величезна зелена вивіска вирізняється на тьмяній вулиці,
+а під нею ховається чоловік із жовтою парасолькою."
+Puzzle/Repair/GroceryStorePaintingA/Start,"Який же зв’язок між картиною старого
+і малюнком, схованим у шухляді?"
+Item/JackScene03_Jack/Desc,"Старий, здається, почувається
+не дуже добре. Сподіваюся, з ним усе гаразд..."
+Item/JackScene03_Umbrella/Desc,"Ця картина майже така сама, як та,
+що в моїй кімнаті! Чим вони різняться?"
+Puzzle/Repair/StreetPainting/After,"Вони йдуть мокрою від дощу вулицею, досі з парасольками
+в руках, не помічаючи, що вже випогодилося."
+Puzzle/Repair/StreetPainting/FinalStep,"Схоже, їм добре разом! Чи помітили вони,
+що дощ ущух, коли визирнуло сонце?"
+Puzzle/Repair/StreetPainting/Start,"Цей малюнок теж про дощове
+місто. Чи пов’язаний він із попередніми?"
+Item/Sketch_GroceryStore_Cup/Desc,"Ескіз змінився! На вивісці
+з’явилися червона та жовта чашки..."
+Item/Sketch_GroceryStore_Cup/Title,Малюнок жовтої та червоної чашок
+NPC/Room/Calendar/Ch345,"Я ж пам’ятаю, що відірвала аркуш,
+чому тоді досі 23 січня?"
+NPC/Room/Coffee/Ch3/After,Цей чудовий запах ніколи мені не набридне!
+NPC/Room/Computer/Ch3/After,"Сподіваюся, цього разу файл збережеться!"
+NPC/Room/Kitchen/Ch3/After,Сили відновлено! Час до роботи!
+NPC/Room/MissingCatLock/Ch3,"Знайшла червону фарбу в цій
+скриньці. Як вона сюди потрапила?"
+NPC/Room/Radio/Ch3/After,Шум дощу так добре пасує до цієї пісні.
+NPC/Room/Window/Ch3/start,"Дощу не було вже давно. Коли я востаннє
+виходила з парасолькою?"
+Item/Sketch_Collecting/Desc/Single,"Схоже, малюнок, знайдений у шухляді
+за картиною, має особливе значення."
+Item/Sketch_Street/Desc,"Сонце і парасольки... Мені завжди здається, що
+композиція схожа на картину в моїй кімнаті..."
+Item/Sketch_Street/Title,Малюнок вулиці
+Puzzle/Notebook/FamiliarPaintingSort/End,Так! Саме такий порядок!
+Puzzle/Notebook/FamiliarPaintingSort/Start,Що пов’язує ці три малюнки?
+Item/JackLetter_3/Desc,"Ще одна записка з підписом «J». Схоже,
+вона адресована якійсь Ембер."
+Item/JackLetter_3/Title,Записка з парасолькою від J
+Item/Sketch_Collecting/Desc/Multiple,"Схоже, малюнки, знайдені в шухлядах
+за картинами, мають особливе значення."
+Item/Sketch_GroceryStore_Sign/Desc,"Жовта парасолька і зелена вивіска...
+Ще один підозріло знайомий малюнок..."
+Item/Sketch_GroceryStore_Sign/Title,Малюнок крамниці
+Item/Sketch_Umbrella_After/Desc,"Цей малюнок майже не відрізняється
+від картини старого. Цікаво, чому..."
+Item/Sketch_Umbrella_After/Title,Малюнок дощового дня
+Puzzle/Repair/GroceryStorePaintingB/After,"На картині ці двоє
+зустрілися під вивіскою."
+Puzzle/Repair/GroceryStorePaintingB/FinalStep,"Цікаво, чи стоять за цими
+трьома картинами якісь історії?"
+Puzzle/Repair/GroceryStorePaintingB/Start,Невже на вивісці чогось бракує...?
+Hint/Item/Pigment_Blue,"Чому останнім часом я знаходжу малюнки
+й фарби в таких дивних місцях?"
+Item/Pigment_Blue/Desc,"Це спокійний колір, але часом меланхолійний."
+Item/Pigment_Blue/Title,Синя фарба
+Puzzle/Scene/JackScene04/Start,"Який зв’язок між старим
+і чоловіком на картині?"
+Puzzle/Scene/JackScene04/Think/Amber,"Невже ця жінка в білому... Ембер?
+Що з нею було потім?"
+Puzzle/Scene/JackScene04/Think/Jack,Старий... і записки з підписом «J»...?
+NPC/Room/Window/Ch3/afterPigment,"Дощу не було вже давно. Коли я востаннє
+виходила з парасолькою?"
+Puzzle/Painting/Neighbor_Blue/Correct/1,Ще трохи — і робота готова до подачі!
+Puzzle/Painting/Neighbor_Blue/Correct/2,Від цього кольору мимоволі стає трохи сумно.
+Puzzle/Painting/Neighbor_Blue/Correct/3,Майже готово! Але чому мені так не хочеться працювати?
+Puzzle/Painting/Neighbor_Blue/FinalStep,Готово! Але ще треба дещо підправити...
+Puzzle/Painting/Neighbor_Blue/Start,Сьогодні заспокою думки й зосереджуся на мистецтві!
+Item/JackScene04_Amber/Desc,"Ембер, жінка, яка завжди
+вдягнена в біле. Хто вона?"
+Item/JackScene04_Jack/Desc,"Невже J — це чоловік із картин? Який
+зв’язок між ним і старим?"
+Hint/FamiliarMemory/VoiceOver/1,"Безкінечний шурхіт дощу по
+вулиці складається в пісню без слів."
+Hint/FamiliarMemory/VoiceOver/2,Разом із дощем розквітають парасольки.
+NPC/FamiliarMemory/Amber,"Боячись намочити свою картину,
+вона шукає, де сховатися від дощу."
+NPC/FamiliarMemory/Chat,"Вони говорили далі, навіть коли визирнуло сонце."
+NPC/FamiliarMemory/JackA,"Раптовий дощ порушив його плани, і він починає
+шукати місце, де можна перечекати."
+NPC/FamiliarMemory/JackB,"Кинувшись під ту саму вивіску,
+вони випадково зустрічаються."
+NPC/FamiliarMemory/Painting/Empty,"Полотно у вітрині крамниці
+затуманилося."
+NPC/FamiliarMemory/Painting/Exit,Що станеться далі?
+NPC/FamiliarMemory/Sign,"Вони переглядаються й усміхаються, а тоді
+балакають про все на світі, поки чекають."
+Puzzle/Preview/CoffeeStorePainting/Ch4,"Добре, що ця картина
+постраждала не так сильно."
+Puzzle/Preview/LavenderPainting/Ch4,"Фух... Добре, що з цією картиною все гаразд."
+Puzzle/Preview/RyePainting/Ch4,"Яка радість, що цієї картини не зачепили!"
+Puzzle/Repair/JackSign/Before,"Перевернута «J». Але чогось
+наче бракує..."
+Cinema/Wake,З тобою все гаразд?
+Puzzle/Lock/GeometricLock/Before,"Головоломка з геометричних фігур.
+Можливо, підказки є десь у кімнаті."
+Puzzle/Lock/TurnOnLight/Door,Двері замкнені. Зсередини не відчинити.
+Puzzle/Lock/TurnOnLight/Light,Світло ввімкнене. Тепер усе добре видно.
+Puzzle/Lock/TurnOnLight/Shock,
+Puzzle/Lock/TurnOnLight/Start,"Нічого не видно. Мабуть,
+спершу варто ввімкнути світло."
+Puzzle/Scene/JackScene05/Man,Агов! З вами все гаразд?
+Puzzle/Scene/JackScene05/Shock,Що сталося?
+Puzzle/Lock/StoreroomDoorLock/End,«ЕМБЕР»... Це ж її ім’я!
+Puzzle/Lock/StoreroomDoorLock/Start,"Хіба тут раніше були двері?
+На них намальована червона парасолька..."
+Hint/AmberPicture_A/After,Що сталося з кімнатою?
+Item/AmberPicture_B/Desc,"Фото, де я тримаю кішку J..."
+Item/AmberPicture_C/Desc,"Частина полотна і мій
+улюблений касетний програвач."
+Item/AmberPicture/Title,Стара фотографія
+Puzzle/Repair/UmbrellaAbstractPainting/After,"Дощ зблизив їх. Можливо,
+вони хотіли б спинити ту мить назавжди?"
+Puzzle/Repair/UmbrellaAbstractPainting/End,"Дощ зблизив їх. Можливо,
+вони хотіли б спинити ту мить назавжди?"
+Puzzle/Repair/UmbrellaAbstractPainting/Start,"Це картина під назвою
+«Він, вона і вулиця»."
+Hint/Storeroom/1,"Що це за місце?
+Що це за картини?"
+Item/AmberPicture/Desc,"На фото я, але
+навіщо його зробили?"
+NPC/Room/Bed/Ch4,Зараз не час спати...
+NPC/Room/Cabinet/Ch45,"Це та шафа, що стояла біля стіни?
+Чому вона перекинута?"
+NPC/Room/GroceryStorePainting/Ch45,Фарба розпливлася... Але чому?
+NPC/Room/HillPainting/Ch45,"Не можу розібрати, як вона виглядала раніше..."
+NPC/Room/Light/Ch45,"Світло ввімкнене. Якщо вимкну,
+нічого не побачу."
+NPC/Room/Memo/Ch4,"Тут нічого не знайти. Мабуть,
+варто пошукати деінде."
+NPC/Room/MissingCatLock/Ch45,"Тут нічого не змінилося.
+Мабуть, варто пошукати деінде."
+NPC/Room/OutsideDoor/Ch4/After,Досі не відчиняються...
+NPC/Room/StreetPainting/Ch45,Хтось замалював початкову картину...
+NPC/Room/SunFlowerLock/Ch45,Зараз не час розглядати цю скриньку.
+NPC/Room/ToDoList/Ch45,На блокноті сині стрілки.
+NPC/Room/UmbrellaOilPainting/Ch45,Постаті на картині геть розмиті...
+NPC/Room/Window/Ch4/start,"Вікна наче забиті. Усе, що я бачу, —
+це текстура дерева..."
+NPC/Storeroom/Ceiling/Ch4,"На стінах висить безліч картин. Між ними
+стеля така висока, що я не бачу її верху."
+NPC/Storeroom/RadioPainting/Ch4,Високо на стіні картина з касетним програвачем.
+NPC/Room/Computer/Ch4/After,Раніше я знайшла тут іще один фрагмент.
+Item/AmberLetter_1/Desc,"Це її записка для J із синім колом.
+Виходить, вони були сусідами?"
+Item/AmberLetter_1/Title,Записка від Ембер (із синім колом)
+Item/AmberLetter_2/Desc,"Вони познайомилися завдяки дощу. Це підказка?
+Підписано «Ембер», і є щось червоне й розмите."
+Item/AmberLetter_2/Title,Записка від Ембер (червона)
+Item/AmberLetter_3/Desc,"Це записка Ембер для J. Жовта частина
+розпливлася. Яка ж із них «завершена картина»?"
+Item/AmberLetter_3/Title,Записка від Ембер (жовта)
+Item/Pigment_White/Desc,Білий — колір чистоти й досконалості.
+Item/Pigment_White/Title,Біла фарба
+Item/Sketch_Kitchen/Desc,"Кухня на малюнку здається знайомою.
+Але шафку я не впізнаю."
+Item/Sketch_Kitchen/Title,Малюнок кухні
+Item/AmberPicture_Chip/Desc,"Фрагмент фото. Поки що не можу
+розібрати, що на ньому."
+Item/AmberPicture_A/Desc,"Старе фото. На ньому картина з квітковим полем.
+Схоже, знімок зробили саме в цій кімнаті."
+Item/AmberPicture_A/Title,Фрагмент старого фото
+Puzzle/Painting/MainPainting/Correct/1,Це правильний колір!
+Puzzle/Painting/MainPainting/Correct/2,"Так, саме те місце!"
+Puzzle/Painting/MainPainting/Correct/3,Гарно виходить!
+Puzzle/Repair/CatPainting/After,"Це та сама кішка, що з’явилася,
+коли вони зустрілися. Невже це теж її робота?"
+Puzzle/Repair/CatPainting/End,"Той несиметричний біло-рудий візерунок...
+Ця кішка була там, коли вони зустрілися."
+Puzzle/Repair/CatPainting/Start,"Це картина під назвою «Кішка».
+Та сама кішка, що їх поєднала."
+Puzzle/Repair/SunFlowerPainting/After,"Її картина із соняшниками. Саме звідси він
+черпав натхнення, і саме тут усе почалося."
+Puzzle/Repair/SunFlowerPainting/End,"То он звідки знайомий соняшник...
+Це була одна з її картин..."
+Puzzle/Repair/SunFlowerPainting/Start,Це картина «Соняшники».
+Puzzle/Lock/GeometricLock/FinalStep,"Кожній записці відповідає фігура свого кольору.
+А ті, що в будинках... невже це вони?"
+Puzzle/Lock/GeometricLock/Start,"Розташування підписів наче пов’язане
+з геометричними фігурами. Варто спробувати."
+Puzzle/Repair/KitchenPainting/After,"Я пам’ятала це інакше.
+Мабуть, варто ще раз оглянути кухню."
+Puzzle/Repair/KitchenPainting/End,"Я пам’ятала це інакше.
+Мабуть, варто ще раз оглянути кухню."
+Puzzle/Repair/KitchenPainting/Start,Невже це... моя кухня? Дуже схоже.
+Puzzle/Lock/KitchenLock/FinalStep,"Малюнки й фігури в записках позначають
+різні події. Що ж сталося з тими двома?"
+Puzzle/Lock/KitchenLock/Start,"Той самий малюнок, що й на скриньці в кімнаті.
+Здається, я знаю, що має бути ліворуч."
+Puzzle/Routine/Night_RadioArrow/Start,"Касета зникла! І я не пригадую
+цих жовтих стрілок..."
+Puzzle/Routine/Night_KitchenArrow/End,"Червоні стрілки. Чи вказують вони
+на щось червоне в іншому місці?"
+Puzzle/Routine/Night_KitchenArrow/Start,"Хтось переставив тарілку, а на тостері
+якісь дивні позначки."
+Puzzle/Routine/Night_CoffeeArrow/End,Зелені стрілки... Чи мають вони якийсь сенс?
+Puzzle/Routine/Night_CoffeeArrow/Start,Під тарілкою якісь дивні позначки.
+Puzzle/Repair/Sketch/After,"«1618», але чому саме ці чотири цифри...?"
+Puzzle/Repair/Sketch/Correct,"Чи пов’язано це з позначками?
+Невже знайдені позначки — це підказки?"
+Puzzle/Repair/Sketch/End,"«1618», але чому саме ці чотири цифри...?"
+Puzzle/Repair/Sketch/Incorrect,"Так це не працює.
+Мабуть, потрібно більше підказок."
+Puzzle/Repair/Sketch/Start,"Крапки різних кольорів. Чи є між
+ними якийсь зв’язок?"
+Puzzle/Lock/ComputerLock/End,"Я увійшла! Тут повідомлення для друку...
+Роздрукую й подивлюся."
+Puzzle/Lock/ComputerLock/Fail,Неправильний пароль. Увійти не вдалося.
+Puzzle/Lock/ComputerLock/Start,"Як я могла забути пароль?
+Де ж я його записала..."
+Puzzle/Routine/Night_CoffeeArrow/After,"Позначки — це підказки до
+пароля. Але хто їх тут лишив?"
+Puzzle/Routine/Night_KitchenArrow/After,"Позначки — це підказки до
+пароля. Але хто їх тут лишив?"
+Puzzle/Notebook/PictureJigsaw/End/1,Невже на фото я...?
+Puzzle/Notebook/PictureJigsaw/End/2,"Касетний програвач...
+Невже це та картина високо на стіні?"
+Puzzle/Notebook/PictureJigsaw/Start,"Знайома сцена, але все розставлено інакше..."
+Puzzle/Notebook/PictureJigsaw/Undone,"Фото неповне. Цікаво,
+де ж інший фрагмент..."
+Puzzle/Repair/RadioPainting/After,"Невже з касетним програвачем теж щось станеться?
+Як із кухнею? Мабуть, варто перевірити ще раз."
+Puzzle/Repair/RadioPainting/End,"Невже з касетним програвачем теж щось станеться?
+Як із кухнею? Мабуть, варто перевірити ще раз."
+Puzzle/Repair/RadioPainting/Start,"Касетний програвач на картині
+схожий на мій."
+Puzzle/Routine/Night_RadioB/Start,"Біла касета не така, як ті, що я
+зазвичай слухаю. Цікаво, що на ній?"
+Puzzle/Painting/Lavender_First/End,"Потрібен ще один колір. Схоже,
+завершити її поки що не вийде."
+Puzzle/Painting/Lavender_First/Start,"Невже це я малювала? Виглядає точнісінько
+як та, що на фото."
+NPC/Room/Bed/Ch5,Зараз не час спати.
+NPC/Room/Coffee/Ch5,Зараз не час варити каву.
+NPC/Room/Computer/Ch5,"Тут нічого не знайти. Мабуть,
+варто пошукати деінде."
+NPC/Room/Kitchen/Ch5,"Тут нічого не знайти. Мабуть,
+варто пошукати деінде."
+NPC/Room/OutsideDoor/Ch5/After,"Тут нічого не знайти. Мабуть,
+варто пошукати деінде."
+NPC/Room/Radio/Ch5,Ця мелодія повернула мені всі спогади...
+NPC/Room/Sketch/Ch5,«1618»
+NPC/Room/StoreroomDoor/Ch5,"Тут нічого не знайти. Мабуть,
+варто пошукати деінде."
+NPC/Room/Window/Ch5/start,"Вікна наче забиті. Усе, що я бачу, —
+це текстура дерева..."
+NPC/RyeMemory/Radio,Ця музика і цей краєвид...
+NPC/RyeMemory/ShortCanvas,"Людина, яку я колись добре знала. Цікаво,
+скільки років минуло від того дня..."
+NPC/RyeMemory/TallCanvas,Невже це я малюю...?
+NPC/RyeMemory/Window,"Те вікно... Невже воно там, де я думаю?"
+Puzzle/Painting/Lavender_End/Correct/1,"Як же добре мати друга
+зі спільними захопленнями."
+Puzzle/Painting/Lavender_End/Correct/2,"Мені так подобався час, проведений із ним,
+і наші спільні хвилини творчості."
+Puzzle/Painting/Lavender_End/Correct/3,"Через пензель я нагадаю собі
+ніколи більше не забувати цих митей..."
+Puzzle/Painting/Lavender_End/Correct/4,"Після всіх цих спільних митей
+що ж із нами сталося?"
+Puzzle/Painting/Lavender_End/IncorrectColor/1,"Здається, я помилилася. Колір не той."
+Puzzle/Painting/Lavender_End/IncorrectColor/2,"Це не та сцена, що в моїй пам’яті.
+Мабуть, я неточно запам’ятала деталі..."
+Puzzle/Painting/Lavender_End/IncorrectColor/3,"Колір не той. Мабуть,
+варто глянути на старе фото..."
+Puzzle/Painting/Lavender_End/Start,"Усі потрібні кольори є.
+Тепер я можу завершити картину!"
+Puzzle/Preview/CoffeeStorePainting/Ch5,"Кафе, куди ми часто ходили. Тут ми ділилися
+натхненням і власним досвідом."
+Puzzle/Preview/LavenderPainting/Ch5,"Лавандове поле, де ми робили начерки.
+Цей безмежний фіолет повернув спогади..."
+Puzzle/Preview/RyePainting/Ch5,"Пшеничне поле, де ми колись були. Саме там
+ми малювали й говорили про мрії."
+NPC/CoffeeStoreMemory/Notebook,"Я часто тут працювала. Наші «випадкові» зустрічі
+в кафе поступово стали негласною звичкою."
+NPC/CoffeeStoreMemory/Sign,"Тут ми ховалися від дощу, тут завжди
+зустрічалися і тут придумали шифр."
+NPC/CoffeeStoreMemory/Tape,"Музика з цієї білої касети —
+моя улюблена. Як я могла забути..."
+NPC/CoffeeStoreMemory/Window,Я пам’ятаю краєвид за вікном...
+Puzzle/Routine/Day_RadioB/End,"Я запросила його й показала
+свою картину перед від’їздом до Нью-Йорка."
+Puzzle/Routine/Day_RadioB/Start,Тепер пригадую... Той день і та пісня...
+Item/Pigment_Violet/Desc,Фіолетовий. Це мій колір.
+Item/Pigment_Violet/Title,Фіолетова фарба
+NPC/LavenderMemory/Picnic,"Це те саме місце. Кожну дрібну мить,
+прожиту тут... я хотіла намалювати."
+NPC/LavenderMemory/Pigment,Це останній і найважливіший колір.
+NPC/LavenderMemory/TwoCanvas,"Тут ми з ним зробили безліч начерків
+разом. Це стало моїм улюбленим місцем."
+Hint/Item/Pigment_Violet,"Та остання картина...
+Невже я її так і не завершила?"
+NPC/RoomMemory/Coffee,"Ми говорили про свої роботи
+й ділилися мріями, як завжди."
+NPC/RoomMemory/OutsideDoor,"Щоразу, відчиняючи двері й
+бачачи його, я мимоволі всміхалася."
+NPC/RoomMemory/Window,"Того дня я показала йому свою роботу,
+як завжди, а тоді сказала..."
+NPC/RoomMemory/Window/Before,"Я нарешті завершила свою
+картину з лавандовим полем."
+Cinema/Goodbye/Congratulation,...Вітаю!
+Cinema/Goodbye/Offer,...Мою роботу прийняли.
+Item/Brush/Desc,"Часто вживаний пензель. Він заплямований
+усіма кольорами, але досі чудово малює."
+Item/Brush/Title,Старий пензель
+Puzzle/Repair/JackSign/Correct,Ось так!
+Puzzle/Repair/JackSign/Duplicated,Це вже написано.
+Puzzle/Repair/JackSign/Incorrect,Не те.
+Puzzle/Repair/JackSign/Start,Невже це... перевернута «J»?
+Hint/Puzzle/Repair/JackSign,"Його ім’я... Здається, я бачила «J» біля вікна...?"
+Hint/Puzzle/Scene/GalleryScene,Краєвид і звуки за вікном раптом змінилися...
+Cinema/End/End,"Що скажеш, Джеку?"
+Cinema/End/Start,"Час зосередитись на мистецтві!
+Я малюватиму найкращі краєвиди."
+Item/DLC_Brush/Desc,Мій улюблений Ембер забрала із собою до Нью-Йорка.
+Item/DLC_Brush/Title,Мій пензель
+Item/DLC_Pigment_Blue/Desc,"Синій — глибокий колір, але часом меланхолійний."
+Item/DLC_Pigment_Blue/Title,Синя фарба
+Item/DLC_Pigment_Green/Desc,Зелений — улюбленець природи й колір життя.
+Item/DLC_Pigment_Green/Title,Зелена фарба
+Item/DLC_Pigment_White/Desc,Білий — колір спокою та умиротворення.
+Item/DLC_Pigment_White/Title,Біла фарба
+Item/DLC_Sketch_Rye/Desc,"Пшеничне поле, де ми разом робили начерки."
+NPC/Jackroom/JackLetter/Ch1/Before,Мій письмовий стіл.
+NPC/Jackroom/AmberBox/Ch1/Before,"Скринька з фарбами, яку лишила Ембер."
+Item/DLC_Picture_AmberRoom/Desc,"Фото з нами та її картиною,
+зроблене перед від’їздом до Нью-Йорка."
+NPC/Jackroom/Door/Ch1,"Не найкращий час виходити.
+Ще є справи."
+Hint/DLC/ToCatFood,"Що, зголодніли?"
+NPC/Jackroom/Cat/Ch1/BeforeFeed,"А ти добряче погладшала...
+Така маленька й брудна була, коли я тебе підібрав."
+NPC/Jackroom/Watering/Ch1,Запах лаванди заспокоює думки.
+Puzzle/DLC/Watering_01/Start,Лаванда нагадує мені рідні краї.
+Puzzle/DLC/Watering_01/End,Хай вона завжди буде такою квітучою.
+Puzzle/DLC/MainPaint/Rye_01/Start,"Це чернетка.
+Спершу гляну на начерк."
+Puzzle/DLC/MainPaint/Rye_01/End,Чогось бракує.
+Puzzle/DLC/MainPaint/Rye/Correct/1,"Це те пшеничне поле,
+де ми разом робили начерки."
+Puzzle/DLC/MainPaint/Rye/Correct/2,"Сумую за запахом пшеничного поля
+і за днями, коли ми малювали разом."
+Puzzle/DLC/MainPaint/Rye/Correct/3,Той день назавжди закарбувався в пам’яті.
+Puzzle/DLC/MainPaint/Rye/Correct/4,"Я досі пам’ятаю пісню,
+яку ми слухали того дня."
+Puzzle/DLC/MainPaint/Rye/Correct/5,"Свіжий вітерець, тепле сонце
+і найкращий у світі пікнік..."
+NPC/Jackroom/CatFood/Ch1,"Щойно почують, як відкривається
+банка, одразу прибігають."
+NPC/Jackroom/Cat/Ch1/AfterFeed,"Ембер було б приємно це побачити!
+Цікаво, як їй ведеться в Нью-Йорку."
+Puzzle/DLC/CatFood_01/Start,Банки з котячим кормом. Ось від чого вони гладшають.
+Puzzle/DLC/CatFood_01/End,Гаразд. Ідіть сюди!
+NPC/Jackroom/Canvas/Ch1/FindColor,Мені потрібна жовта фарба.
+NPC/Jackroom/Canvas/Ch1/After,"Той пагорб, яким я його пам’ятаю."
+Hint/DLC/ToLetter_Receiving_01,Це стукіт у двері?
+Puzzle/DLC/Letter_Receiving_01/Start,Вона надіслала мені листа!
+Puzzle/DLC/Letter_Receiving_01/End,"Тюбик жовтої фарби?
+Як же вчасно!"
+Item/DLC_AmberLetter_01/Title,Лист від Ембер
+Item/DLC_AmberLetter_01/Desc,"Сподіваюся, з її виставкою все склалося добре."
+Item/DLC_AmberPicture_01/Title,Фото Ембер
+Item/DLC_AmberPicture_01/Desc,"Навіть у Нью-Йорку вона така ж життєрадісна, як завжди."
+NPC/Jackroom/JackLetter/Ch1/After,"Добре було б надіслати їй те, за чим вона сумує."
+Puzzle/DLC/Letter_Replying_Fail_01/Start,З чого почати?
+Puzzle/DLC/Letter_Replying_Fail_01/End,"Щось не те.
+Повернуся до цього пізніше."
+Item/DLC_Sketch_Cat/Desc,"Начерк, де Джинджер і Бісквіт пригорнулися одне до одного...
+Ембер це сподобається."
+Item/DLC_Pigment_Yellow/Desc,Жовтий — колір світла й надії.
+Item/DLC_Pigment_Yellow/Title,Жовта фарба
+NPC/Jackroom/AmberBox/Ch1/After,Вона завжди мене надихає.
+NPC/Jackroom/CatFood/Ch1/Sleep,Від цих банок мої коти гладшають.
+NPC/Jackroom/Cat/Ch1/Sleep,"Хотів би я спати так, як ці коти."
+Puzzle/DLC/Sketch_Cat/Start,Сплять. Які ж гарні.
+Puzzle/DLC/Sketch_Cat/End,"Коти, що сплять, — коти щасливі.
+Ембер це сподобається."
+Puzzle/DLC/AmberBox_01/Start,Я знаю комбінацію.
+Puzzle/DLC/AmberBox_01/End,"Жовта фарба в мене.
+Я знаю, що з нею робити."
+Puzzle/DLC/MainPaint/Rye_02/Start,Колір сонця й життєвої сили...
+Puzzle/DLC/MainPaint/Rye_02/Exit,"Повернуся до цього, коли прийде натхнення."
+Puzzle/DLC/MainPaint/Rye_02/End,"Без її фарби я б не впорався.
+Треба їй як слід подякувати."
+Hint/DLC/ToLetter_Replying_Fin_01,"З’явилися думки...
+Треба написати Ембер у відповідь."
+Puzzle/DLC/Letter_Replying_Fin_01/Start,"Начерк із котами
+підніме їй настрій."
+Puzzle/DLC/Letter_Replying_Fin_01/End,Чи напише вона у відповідь?
+Item/DLC_Sketch_Cafe/Desc,Колись ми часто тут бували.
+NPC/Jackroom/JackLetter/Ch2/Before,Мій письмовий стіл.
+NPC/Jackroom/Door/Ch2,"Ще є картини, які треба дописати."
+Item/DLC_Lavender/Title,Гілочка лаванди
+Item/DLC_Lavender/Desc,"Вона зів’яла, але досі пахне сонцем."
+NPC/Jackroom/Watering_02/Ch2,"Моя лаванда в’яне.
+Мабуть, їй бракує сонця?"
+Puzzle/DLC/Watering_02/Start,Чи оживе вона?
+Item/DLC_Pigment_Red/Title,Червона фарба
+Item/DLC_Pigment_Red/Desc,Червоний — колір пристрасті та дії.
+Item/DLC_AmberNote/Title,Записка Ембер
+Item/DLC_AmberNote/Desc,"Схоже, вона написала це, щоб підбадьорити себе."
+NPC/Jackroom/Table/Ch2,Майстерню давно пора прибрати.
+Puzzle/DLC/Cleaning/Start,Треба покласти все на свої місця.
+Puzzle/DLC/Cleaning/AmberBox,"Ця комбінація нагадує мені
+про чудовий час, що ми провели разом."
+NPC/Jackroom/Canvas/Ch2/AfterRed,"Повернуся до цього, коли прийде натхнення."
+Puzzle/DLC/MainPaint/Cafe_01/Start,Іноді дрібниці важать найбільше.
+Puzzle/DLC/MainPaint/Cafe_01/FindColor,"Повернуся до цього, коли прийде натхнення."
+Puzzle/DLC/MainPaint/Cafe_01/Exit,"Мені потрібна червона фарба.
+Треба її знайти, щоб завершити картину."
+Puzzle/DLC/MainPaint/Cafe_01/End,"Майже готово, але мене це не тішить.
+Бракує натхнення."
+Puzzle/DLC/MainPaint/Cafe_01/Correct/1,Скільки ідей ми тут переказали одне одному...
+Puzzle/DLC/MainPaint/Cafe_01/Correct/2,"Мистецтво, музика, життя...
+Ми говорили про все."
+Puzzle/DLC/MainPaint/Cafe_01/Correct/3,Я мало не чую запах кави.
+Puzzle/DLC/MainPaint/Cafe_01/Correct/4,"Випадок нас звів.
+Доля нас познайомила."
+Puzzle/DLC/MainPaint/Cafe_01/Correct/5,Це й досі моє улюблене місце для кави.
+Puzzle/DLC/MainPaint/Cafe/Duplicated/1,Цю частину я вже намалював.
+Puzzle/DLC/MainPaint/Cafe/Duplicated/2,Треба бути уважнішим.
+Puzzle/DLC/MainPaint/Cafe/Duplicated/3,Тут варто бути пильнішим.
+Puzzle/DLC/MainPaint/Cafe/IncorrectColor/1,Не той колір.
+Puzzle/DLC/MainPaint/Cafe/IncorrectColor/2,Не зовсім те.
+Puzzle/DLC/MainPaint/Cafe/IncorrectColor/3,Треба дещо змінити.
+Hint/DLC/ToLetter_Receiving_02,"Стукіт у двері.
+Знову листоноша?"
+Item/DLC_OtherLetter_01/Title,Рекомендаційний лист від професора
+Item/DLC_OtherLetter_01/Desc,"Мабуть, відмовлятися вдруге не варто..."
+Item/DLC_OtherLetter_02/Title,Рахунок за оренду
+Item/DLC_OtherLetter_02/Desc,Минув іще один місяць.
+Item/DLC_AmberLetter_02/Title,Лист від Ембер
+Item/DLC_AmberLetter_02/Desc,"Цікаво, чи бачимо ми одну й ту саму осінь?"
+Item/DLC_MapleLeaf/Title,Сухий кленовий листок
+Item/DLC_MapleLeaf/Desc,Час підфарбував його червоним і жовтим.
+Puzzle/DLC/Letter_Receiving_02/Start,"Скільки листів.
+Чи є привіт із Нью-Йорка?"
+Puzzle/DLC/Letter_Receiving_02/End,"Відтінки червоного й жовтого...
+Здається, у мене з’явилася ідея."
+NPC/Jackroom/Canvas/Ch2/After,"Цікаво, чи знайшла вона
+в Нью-Йорку кафе до душі?"
+Puzzle/DLC/MainPaint/Cafe_02/Start,Призахідне сонце лишає по собі відблиск часу.
+Puzzle/DLC/MainPaint/Cafe_02/End,"Ембер щоразу надихає мене
+своїми листами. Як їй віддячити?"
+Puzzle/DLC/MainPaint/Cafe_02/Correct/1,"Кафе й досі на місці,
+але все вже інакше..."
+Puzzle/DLC/MainPaint/Cafe_02/Correct/2,Час нікого не чекає...
+Puzzle/DLC/MainPaint/Cafe_02/Correct/3,"Чи зможемо ми знову творити спогади,
+як вона писала в листі?"
+NPC/Jackroom/JackLetter/Ch2/After,Важко вкласти думки в слова.
+Puzzle/DLC/Letter_Replying_Fail_02/Start,З чого почати?
+Puzzle/DLC/Letter_Replying_Fail_02/End,"Щось не те.
+Повернуся до цього пізніше."
+NPC/Jackroom/CatFood/Ch2,Джинджер і Бісквіт обоє люблять цю марку.
+NPC/Jackroom/Kitten/Ch2/AfterFeed,"Бісквіт їсть із апетитом.
+А в Джинджер апетиту, схоже, немає..."
+Puzzle/DLC/CatFood_02/Start,"Вони ще не зголодніли,
+але я однаково приготую їжу."
+Puzzle/DLC/CatFood_02/End,Їхній обід готовий.
+Puzzle/DLC/Letter_Replying_Fin_02/Start,З’явилися думки...
+Puzzle/DLC/Letter_Replying_Fin_02/Flower,Надішлю їй іще й цю лаванду.
+Puzzle/DLC/Letter_Replying_Fin_02/End,"Сподіваюся, мій дарунок і слова надихнуть і її."
+NPC/Jackroom/Door/Ch3,Давненько я не виходив з дому.
+NPC/Jackroom/JackLetter/Ch3/Before,"Минуло чимало часу
+від її останнього листа."
+NPC/Jackroom/Cat/Ch2/Sick,"Джинджер старішає й
+дедалі більше відпочиває."
+NPC/Jackroom/Watering/Ch3,"Схоже, поливати це вже не треба."
+Item/DLC_Sketch_Street/Desc,Цей дощ нас познайомив.
+Puzzle/DLC/Letter_Receiving_03/Start,Скільки пошти.
+Puzzle/DLC/Letter_Receiving_03/End,"Давно від неї нічого не чути.
+Як вона там?"
+Item/DLC_OtherLetter_03/Title,Листівка кафе EOS
+Item/DLC_OtherLetter_03/Desc,Листівка щойно відкритого кафе.
+Item/DLC_OtherLetter_04/Title,Реклама гіпермаркету
+Item/DLC_OtherLetter_04/Desc,Останнім часом реклами стає все більше.
+Item/DLC_OtherLetter_05/Title,Показ у галереї: запрошення художниці
+Item/DLC_OtherLetter_05/Desc,"Мене вперше запрошують на щось
+настільки велике. Доведеться постаратися."
+Puzzle/DLC/MainPaint/CafeOutside/Start,"«Найкращий краєвид»...
+Ця тема мені знайома."
+Puzzle/DLC/MainPaint/CafeOutside/End,"Дощова сцена, яку я так добре пам’ятаю.
+Але чи можу я назвати її завершеною?"
+Puzzle/DLC/ExhibitPaint_Amber_01/Start,Який же краєвид найкращий?
+Puzzle/DLC/ExhibitPaint_Amber_01/End,"Стільки часу минуло,
+а я досі чітко пам’ятаю її усмішку..."
+NPC/Jackroom/Canvas/Ch3/BeforeOutside,Треба перепочити.
+Puzzle/DLC/AmberBox_02/Start,"Чи пам’ятає вона ще,
+що ця скринька з фарбами тут?"
+Puzzle/DLC/AmberBox_02/End,Тепер вона порожня...
+NPC/Jackroom/AmberBox/Ch3/After,Чи пам’ятає вона ще цю скриньку з фарбами?
+Hint/DLC/GoOut,"Мабуть, і я прогуляюся."
+NPC/Jackroom/CatFood/Ch3,"Бісквіт знову надворі.
+Точнісінько як Джинджер замолоду."
+Puzzle/DLC/CatFood_03/Start,Де ж Бісквіт?
+Puzzle/DLC/CatFood_03/End,Обід для Бісквіта готовий.
+NPC/Jackroom/CatFood/Ch3/After,Бісквіт надворі.
+NPC/CatAlley/Phantom,...Ембер?
+NPC/CafeStreet/Cafe,"Сьогодні зачинено.
+Мабуть, перечекаю тут."
+NPC/CafeStreet/Phantom/1,"Цікаво, що вона зараз робить."
+NPC/CafeStreet/Phantom/2,Я досі бачу її подумки...
+NPC/CafeStreet/Phantom/3,"Чи вона й досі так само йде до мети,
+як писала в листах?"
+NPC/CafeStreet/Phantom/4,"Колись ми говорили про мрії.
+А про що мріяв тоді я?"
+NPC/CafeStreet/Phantom/5,"Вона завжди лишається собою.
+А я?"
+NPC/Jackroom/Kitten/BeforeOutside,Ось ти де. Хочеш надвір?
+NPC/JackRoomOutSide/Kitten/1,Вийшов подихати свіжим повітрям?
+NPC/JackRoomOutSide/Kitten/2,Уже втомився? Твій обід усередині.
+NPC/JackRoomOutSide/Phantom,"Невже це та, про кого я думаю...?"
+Puzzle/DLC/Sketch_Sapling/Start,Життя таке живуче...
+Puzzle/DLC/Sketch_Sapling/End,"Гарне деревце.
+Варто цінувати дрібниці життя."
+NPC/Park/Sapling,"Деревце в снігу, повне життя."
+Item/DLC_Sketch_Sapling/Desc,Життя таке живуче...
+Puzzle/DLC/Sketch_Bakery/Start,"Пекарня, про яку я не знав.
+Справи в неї йдуть непогано."
+Puzzle/DLC/Sketch_Bakery/End,"Маленька пекарня, залита теплим світлом.
+І пахне так смачно."
+NPC/CatAlleyEnd/Bakery,Відвідувачі оживляли цей провулок.
+Item/DLC_Sketch_Bakery/Desc,Я досі відчуваю запах свіжоспеченого хліба.
+Puzzle/DLC/Sketch_OldWall/Start,Птахи перечікують сніг.
+Puzzle/DLC/Sketch_OldWall/End,"Куди вони подінуться, коли сніг ущухне?"
+NPC/CatAlleyEnd/OldWall,"Чи зів’ють вони тут гніздо, коли прийде весна?"
+Item/DLC_Sketch_OldWall/Desc,Заздрю птахам — вони такі вільні.
+Puzzle/DLC/Sketch_Snow/Start,"Є краса, яку помічаєш лише тоді,
+коли відпускаєш."
+Puzzle/DLC/Sketch_Snow/End,Сніг припинився.
+Item/DLC_Sketch_Snow/Desc,"Гарний сніжний краєвид, що трапився мені на очі."
+Item/DLC_AmberLetter_03/Desc,Довгоочікуване запрошення від Ембер.
+Item/DLC_AmberLetter_03/Title,Запрошення на виставку Ембер
+Puzzle/DLC/Letter_Receiving_04/Start,Це лист від неї.
+Puzzle/DLC/Letter_Receiving_04/End,Нью-Йорк такий далекий.
+Puzzle/DLC/ExhibitPaint_Amber_02/Start,"Для виставки —
+«Найкращий краєвид»..."
+Puzzle/DLC/ExhibitPaint_Amber_02/End,"Можливо, найкращий краєвид —
+зовсім і не краєвид..."
+Puzzle/DLC/ExhibitPaint_Amber_02/Drag/1,Іноді жалі — це теж створені спогади.
+Puzzle/DLC/ExhibitPaint_Amber_02/Drag/2,Час минає й нікого не чекає.
+Puzzle/DLC/ExhibitPaint_Amber_02/Drag/3,"Ти завжди нагадуєш мені не
+кидати те, що я по-справжньому люблю."
+Puzzle/DLC/Letter_Replying_Fin_03/Start,"Дякую, що нагадала мені про все це."
+Puzzle/DLC/Letter_Replying_Fin_03/End,Я вдячний.
+NPC/Jackroom/Canvas/Ch4,"Погода гарна.
+Згодом вийду погрітися на сонці."
+NPC/Jackroom/Door/Ch4,Згодом вийду зробити начерк.
+NPC/Jackroom/JackLetter/Ch4,Треба колись знайти час і розібрати листи.
+NPC/Jackroom/BestPainting/Ch4,Для мене це найкращий краєвид.
+NPC/Jackroom/Kitten/Ch4/Before,"Привіт, Бісквіте.
+Як ся маєш?"
+NPC/Jackroom/Watering/Ch4,"Засушена лаванда гарна по-своєму.
+Вона нагадує мені рідні краї."
+Puzzle/DLC/Letter_Receiving_05/Start,Лист від Академії мистецтв.
+Puzzle/DLC/Letter_Receiving_05/End,"Добре знати, що справи йдуть добре."
+Item/DLC_OtherLetter_06/Title,Подячний лист від Академії
+Item/DLC_OtherLetter_06/Desc,За ці роки я багато зробила.
+NPC/Jackroom/Kitten/Ch4/After,"Дякую, що ти мені друг."
+NPC/Jackroom/Poster/Ch1,Заздрю Мілле з його успіхом.
+NPC/Jackroom/Poster/Ch2,Цей художник — мій взірець.
+NPC/Jackroom/DecoPainting_Rye/Ch2,"Пшеничне поле хвилюється на вітрі...
+Наче це було вчора."
+NPC/Jackroom/DecoPainting_Rye/Ch3,"Наше минуле, перенесене на полотно..."
+NPC/Jackroom/DecoPainting_Rye/Ch4,Жовтий — колір світла й надії.
+NPC/Jackroom/DecoPainting_Lavender/Ch1,Спогади про наші хвилини творчості.
+NPC/Jackroom/DecoPainting_Lavender/Ch4,Фіолетовий — її колір.
+NPC/Jackroom/DecoPainting_Cafe/Ch3,"Кафе на заході сонця.
+Відтінок, наче в пожовклого фото."
+NPC/Jackroom/DecoPainting_Cafe/Ch4,Час підфарбовує яскраві спогади жовтим.
+NPC/Jackroom/DecoPainting_CafeStreetSnow/Ch4,"Робота, яку я тоді подав на показ
+у галереї. Її дуже добре прийняли."
+NPC/Jackroom/DecoPainting_Hill/Ch1,"Одна з моїх недавніх робіт,
+якою я цілком задоволений."
+NPC/Jackroom/DecoPainting_Hill/Ch2,Треба прибрати старі картини.
+NPC/Jackroom/DecoPainting_Hill/Ch4,"Стара картина. Це вона надихнула мене
+малювати тепле сонячне світло."
+NPC/Jackroom/Woodcarving/Ch1,"Кілька давніх різьблених фігурок.
+Люблю різьбити, коли не малюю."
+NPC/Jackroom/Woodcarving/Ch2,Коли я востаннє різьбив по дереву?
+NPC/Jackroom/Woodcarving/Ch4,"Дерев’яні дрібнички, які я вирізьбив.
+Сусідська дітлашня їх обожнює."
+NPC/Jackroom/MiscLetter/Ch1,Лист здалеку.
+NPC/Jackroom/MiscLetter/Ch2,Чи напише вона ще?
+NPC/Jackroom/MiscLetter/Ch4,"Минуло чимало часу
+від її останнього листа."
+NPC/Jackroom/Awards/Ch4,"Я можу все, якщо по-справжньому візьмуся."
+NPC/Jackroom/UmbrellaPainting/Ch4,Незабутній дощ.
+Outgame/Setting/Close,Вимк.
+Outgame/Setting/Dispaly,Режим
+Outgame/Setting/Dispaly/FullScreen,На весь екран
+Outgame/Setting/Dispaly/Window,У вікні
+Outgame/Setting/EnvironmentVolume,Фонові звуки
+Outgame/Setting/Language,Мова
+Outgame/Setting/MotionControls,Гіроскоп для AR
+Outgame/Setting/Music,Музика
+Outgame/Setting/Open,Увім.
+Outgame/Setting/RestorePurchase,Відновити покупки
+Outgame/Setting/SoundEffect,Звукові ефекти
+Outgame/Setting/Voice,Голос
+Outgame/Dialog/Buy,Покупка
+Outgame/Dialog/Cancel,Відміна
+Outgame/Dialog/Comment,"Дякуємо за гру!
+Хочете залишити нам відгук?"
+Outgame/Dialog/Confirm/Restart/LostProgress,"Поточний прогрес буде втрачено.
+Ви точно хочете перезапустити
+гру з цього розділу?"
+Outgame/Dialog/Confirm/Restart/NewGame,"Поточний прогрес буде втрачено.
+Ви точно хочете почати
+гру спочатку?"
+Outgame/Dialog/Confirm/Restart/NoProgress,"Ви точно хочете перезапустити
+гру з цього розділу?"
+Outgame/Dialog/ConnectionCheck,"Гру в цій бета-версії можна
+продовжити лише після
+підключення до Інтернету."
+Outgame/Dialog/Exit,"Ви точно хочете
+вийти з гри?"
+Outgame/Dialog/ForceUpdate,"Ця версія більше не підтримується.
+Оновіть гру до останньої версії."
+Outgame/Dialog/Home,Повернутись у головне меню?
+Outgame/Dialog/PurchaseFail,Не вдалося завершити покупку.
+Outgame/Dialog/Questionnaire,"Дякуємо за участь!
+Пройдіть опитування, щоб
+допомогти нам покращити гру."
+Outgame/Dialog/QuestionnaireCheck,"Ви вийдете з гри та
+перейдете на сторінку опиту.
+Ви впевнені?"
+Outgame/Dialog/RestoreFail,Не вдалося відновити покупки.
+Outgame/Dialog/RestoreSuccess,Покупки відновлено.
+Outgame/Dialog/Restorinmg,"Покупки відновлюються.
+Зачекайте хвилинку."
+Outgame/Dialog/Shopping,"Хочете придбати
+повну версію гри?"
+Outgame/Dialog/TestingEnd,"Це завершення бета-тесту.
+Дякуємо вам за участь!"
+Outgame/Dialog/Thanks,"Покупку завершено.
+Дякуємо за підтримку!"
+Outgame/Dialog/Update,"Доступна нова версія.
+Хочете оновити гру?"
+Outgame/Dialog/VersionCheck,"Ця версія більше не підтримується.
+Оновіть гру до останньої версії."
+Outgame/Dialog/PreOrder,"Дякуємо, що зіграли в нашу гру одними з перших!
+На знак подяки ми приготували для вас подарунок — натисніть значок нижче, щоб отримати його!"
+Outgame/Dialog/PreOrder/SerialNumber,Код активації
+Outgame/Dialog/PreOrder/CheckBox,Більше не показувати
+Outgame/Dialog/Controller/LeftStick,Перемістити курсор
+Outgame/Dialog/Controller/RightStick,Перемістити камеру
+Outgame/Dialog/Controller/ButtonNorth,Блокнот
+Outgame/Dialog/Controller/ButtonSouth,Вибрати / Малювати
+Outgame/Dialog/Controller/ButtonEast,Відміна
+Outgame/Dialog/Controller/LeftShoulder,(Блокнот) Сторінка ліворуч
+Outgame/Dialog/Controller/RightShoulder,(Блокнот) Сторінка праворуч
+Outgame/Dialog/Controller/StartButton,До головного меню
+Outgame/Dialog/Confirm/Restart/NewDLC,"Поточний прогрес буде втрачено.
+Ви впевнені, що хочете запустити
+доповнення спочатку?"
+Outgame/Dialog/Confirm/Restart/DLCContinue,Продовжити грати в доповнення?
+Item/DLC_Paperscrapes/Title,Газетні вирізки про виставку
+Item/DLC_Paperscrapes/Desc,Про неї чимало пишуть у пресі.
+Cinema/DLC_SnowStart,Сніг валить не на жарт.
+Cinema/DLC_Ending/1,Намалюймо найкращий краєвид.
+Cinema/DLC_Ending/2,"Що скажеш, Ембер?"
+NPC/Jackroom/Trash,Сюди йдуть мої тривоги й сумніви.
+NPC/Jackroom/Cat/Ch3,Невже Бісквіт іще не зголоднів?
+Outgame/Headphones,"Для кращого занурення
+радимо грати в навушниках."
+Outgame/Option/AboutUs,Про нас
+Outgame/Option/Chapters,Вибір розділу
+Outgame/Option/Continue,Продовжити
+Outgame/Option/ExitGame,Вихід
+Outgame/Option/NewGame,Нова гра
+Outgame/Option/PressToStart,"Натисніть, щоб почати"
+Outgame/Option/Settings,Опції
+Outgame/Setting/VideoFormat,Формат відео
+Outgame/Setting/VideoFormat/H264,H.264
+Outgame/Setting/VideoFormat/VP8,VP8
+Puzzle/Repair/Night/Common/Correct/1,Тепер вона цілісніша!
+Puzzle/Repair/Night/Common/Correct/2,"Так, саме те місце!"
+Puzzle/Repair/Night/Common/Correct/3,Гарно виходить!
+Puzzle/Repair/Night/Common/Incorrect/1,"Щось не те... Може,
+десь є підказка?"
+Puzzle/Repair/Night/Common/Incorrect/2,"Ні, не тут... Мабуть,
+треба ще подумати..."
+Puzzle/Repair/Night/Common/Incorrect/3,"Не те місце...
+Виглядає якось дивно..."
+Puzzle/Repair/Night/Common/MinorIncorrect/1,"Загалом наче правильно, але
+мене не полишає дивне відчуття..."
+Puzzle/Repair/Night/Common/MinorIncorrect/2,"Майже вийшло!
+Трохи підправлю..."
+Puzzle/Repair/Night/Common/MinorIncorrect/3,Зовсім близько!
+Puzzle/Repair/Night/Common/PartialIncorrect/1,"Місце наче правильне. Але
+доведеться дещо підправити..."
+Puzzle/Repair/Night/Common/PartialIncorrect/2,"Чомусь усе одно не зовсім те...
+Треба трохи підправити!"
+Puzzle/Repair/Night/Common/PartialIncorrect/3,Ще потребує доопрацювання.
