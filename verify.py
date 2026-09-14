@@ -131,18 +131,47 @@ def verify(g):
     ok('surplus word blanked', blanked == 1)
 
     # 7-8 own-texture art
+    #
+    # Each of these names exists in ten language variants. Checking that *some*
+    # variant carries the Ukrainian art is not enough — an earlier bug painted
+    # five of them onto the German/Spanish sprite and this check still passed.
+    # So: find the object that was the Russian one in the untouched backup, and
+    # confirm that exact object is the one now carrying the new artwork.
+    import hashlib
+    porig_sprites = {}
+    if os.path.exists(orig):
+        env0 = UnityPy.load(orig)
+        for o in env0.objects:
+            if o.type.name == 'Sprite':
+                porig_sprites.setdefault(o.read_typetree().get('m_Name'), []).append(o)
+
     norm = lambda s: re.sub(r'[\s_]+', '', os.path.splitext(s)[0]).lower()
     for label, folder, mdir in (('journal', 'journal', 'journal_ru'),
                                 ('cutscenes', 'cutscenes', 'cutscenes_ru')):
         man = list(csv.DictReader(open(os.path.join(REF, mdir, 'manifest.csv'), encoding='utf-8')))
         files = {norm(f): f for f in os.listdir(os.path.join(ART, folder))}
-        worst, worstname = 0.0, ''
+        worst, worstname, misrouted = 0.0, '', []
         for row in man:
             art = Image.open(os.path.join(ART, folder, files[norm(row['file'])])).convert('RGBA')
-            best = min(A.mae(crop_of(o, art), art) for o in g.sprites(row['sprite']))
-            if best > worst:
-                worst, worstname = best, row['sprite']
-        ok(f'{label} art', worst < 6, f'{len(man)} images, worst MAE {worst:.2f} ({worstname})')
+            want = row.get('sprite_sha256')
+            target = None
+            for o in porig_sprites.get(row['sprite'], []):
+                if hashlib.sha256(o.read().image.convert('RGBA').tobytes()).hexdigest() == want:
+                    target = o.path_id
+                    break
+            if target is None:
+                misrouted.append(f'{row["sprite"]}: not found in backup')
+                continue
+            sp = g.objs[target]
+            if sp.read_typetree()['m_RD']['m_VertexData']['m_VertexCount'] != 4:
+                misrouted.append(f'{row["sprite"]}: id {target} was not patched')
+                continue
+            score = A.mae(crop_of(sp, art), art)
+            if score > worst:
+                worst, worstname = score, row['sprite']
+        ok(f'{label} art', worst < 6 and not misrouted,
+           f'{len(man)} images, worst MAE {worst:.2f} ({worstname})'
+           + (f'; MISROUTED: {misrouted}' if misrouted else ''))
 
     print()
     print('RESULT:', 'all checks passed' if not fails else f'{len(fails)} FAILED: {fails}')
