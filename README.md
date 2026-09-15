@@ -4,6 +4,10 @@
 
 ![версія](https://img.shields.io/badge/гра-Steam-blue) ![статус](https://img.shields.io/badge/переклад-100%25-brightgreen)
 
+<img width="1920" height="1080" alt="20260915011211_1" src="https://github.com/user-attachments/assets/83370812-2c39-44db-a4fb-5ca17a1cb154" />
+
+<img width="1920" height="1080" alt="20260915010336_1" src="https://github.com/user-attachments/assets/9e183a43-798d-4593-8a59-96deb2a67ad0" />
+
 ## Встановлення
 
 Завантажте `BehindTheFrame-UA-Install.exe` зі сторінки [Releases](../../releases), закрийте гру й запустіть інсталятор. Гра знаходиться сама; якщо ні — перетягніть на нього папку `Behind the Frame_Data`.
