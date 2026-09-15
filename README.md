@@ -2,6 +2,8 @@
 
 Повний неофіційний переклад українською. Не пов'язаний зі студією Silver Lining Studio.
 
+Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3801864198
+
 ![версія](https://img.shields.io/badge/гра-Steam-blue) ![статус](https://img.shields.io/badge/переклад-100%25-brightgreen)
 
 <img width="1920" height="1080" alt="20260915011211_1" src="https://github.com/user-attachments/assets/83370812-2c39-44db-a4fb-5ca17a1cb154" />
