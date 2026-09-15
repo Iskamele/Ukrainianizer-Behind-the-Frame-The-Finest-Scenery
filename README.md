@@ -40,7 +40,7 @@
 
 - Оновлення гри та перевірка цілісності файлів у Steam повертають оригінал — просто запустіть інсталятор знову
 - Антивірус може лаятись на `.exe`: це типове хибне спрацювання на PyInstaller. SHA-256 у `SHA256.txt`, вихідний код тут
-- Перевірено на версії зі Steam станом на вересень 2025. На іншій версії інсталятор зупиниться з повідомленням, а не зіпсує файли
+- Перевірено на версії зі Steam станом на вересень 2026. На іншій версії інсталятор зупиниться з повідомленням, а не зіпсує файли
 
 ## Як це влаштовано
 
@@ -123,7 +123,7 @@ Saves live outside the game folder, so they survive either way.
 
 - Game updates and Steam's integrity check revert the files — just run the installer again
 - Antivirus software may flag the `.exe`. This is a common false positive for PyInstaller builds: a Python interpreter is bundled inside and heuristics react to that. SHA-256 is in `SHA256.txt`, the source is here
-- Verified against the Steam build as of September 2025. On a different version the installer stops with a message instead of damaging anything
+- Verified against the Steam build as of September 2026. On a different version the installer stops with a message instead of damaging anything
 
 ## How it works
 
